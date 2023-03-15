@@ -1,0 +1,270 @@
+.main{    
+    color: #fff;
+    background-color: rgb(15, 130, 130);
+    margin: auto;
+    text-align: center;
+    padding-bottom: 150px;
+    font-family: 'Montserrat', sans-serif;
+}
+img{
+    height: 450px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.con-1{
+    position: absolute;
+    top: 70px;
+    left: 42%;
+    width: 220px;
+    background-color: rgb(35, 87, 32);
+    padding: 10px 0 10px 0;
+    border-radius: 10px;
+}
+
+.con-2{
+    position: absolute;
+    top: 80px;
+    left: 18%;
+    width: 220px;
+    background-color: rgb(35, 87, 32);
+    padding: 10px 0 10px 0;
+    border-radius: 10px;
+}
+
+.con-3{
+    position: absolute;
+    top: 80px;
+    left: 65%;
+    width: 220px;
+    background-color: rgb(35, 87, 32);
+    padding: 10px 0 10px 0;
+    border-radius: 10px;
+}
+
+.con-4{
+    position: absolute;
+    top: 140px;
+    left: 12%;
+    width: 220px;
+    background-color: rgb(35, 87, 32);
+    padding: 10px 0 10px 0;
+    border-radius: 10px;
+}
+
+.con-5{
+    position: absolute;
+    top: 140px;
+    left: 70%;
+    width: 220px;
+    background-color: rgb(35, 87, 32);
+    padding: 10px 0 10px 0;
+    border-radius: 10px;
+}
+
+.con-6{
+    position: absolute;
+    top: 200px;
+    left: 7%;
+    width: 220px;
+    background-color: rgb(35, 87, 32);
+    padding: 10px 0 10px 0;
+    border-radius: 10px;
+}
+
+.con-7{
+    position: absolute;
+    top: 200px;
+    left: 75%;
+    width: 220px;
+    background-color: rgb(35, 87, 32);
+    padding: 10px 0 10px 0;
+    border-radius: 10px;
+}
+
+.con-8{
+    position: absolute;
+    top: 260px;
+    left: 7%;
+    width: 220px;
+    background-color: rgb(35, 87, 32);
+    padding: 10px 0 10px 0;
+    border-radius: 10px;
+}
+
+.con-9{
+    position: absolute;
+    top: 260px;
+    left: 75%;
+    width: 220px;
+    background-color: rgb(35, 87, 32);
+    padding: 10px 0 10px 0;
+    border-radius: 10px;
+}
+
+.con-10{
+    position: absolute;
+    top: 320px;
+    left: 7%;
+    width: 220px;
+    background-color: rgb(35, 87, 32);
+    padding: 10px 0 10px 0;
+    border-radius: 10px;
+}
+
+.con-11{
+    position: absolute;
+    top: 320px;
+    left: 75%;
+    width: 220px;
+    background-color: rgb(35, 87, 32);
+    padding: 10px 0 10px 0;
+    border-radius: 10px;
+}
+
+.con-12{
+    position: absolute;
+    top: 380px;
+    left: 7%;
+    width: 220px;
+    background-color: rgb(35, 87, 32);
+    padding: 10px 0 10px 0;
+    border-radius: 10px;
+}
+
+.con-13{
+    position: absolute;
+    top: 380px;
+    left: 75%;
+    width: 220px;
+    background-color: rgb(35, 87, 32);
+    padding: 10px 0 10px 0;
+    border-radius: 10px;
+}
+
+.con-14{
+    position: absolute;
+    top: 440px;
+    left: 7%;
+    width: 220px;
+    background-color: rgb(35, 87, 32);
+    padding: 10px 0 10px 0;
+    border-radius: 10px;
+}
+
+.con-15{
+    position: absolute;
+    top: 440px;
+    left: 75%;
+    width: 220px;
+    background-color: rgb(35, 87, 32);
+    padding: 10px 0 10px 0;
+    border-radius: 10px;
+}
+
+.con-16{
+    position: absolute;
+    top: 500px;
+    left: 7%;
+    width: 220px;
+    background-color: rgb(35, 87, 32);
+    padding: 10px 0 10px 0;
+    border-radius: 10px;
+}
+
+.con-17{
+    position: absolute;
+    top: 500px;
+    left: 75%;
+    width: 220px;
+    background-color: rgb(35, 87, 32);
+    padding: 10px 0 10px 0;
+    border-radius: 10px;
+}
+
+.con-18{
+    position: absolute;
+    top: 560px;
+    left: 12%;
+    width: 220px;
+    background-color: rgb(35, 87, 32);
+    padding: 10px 0 10px 0;
+    border-radius: 10px;
+}
+
+.con-19{
+    position: absolute;
+    top: 560px;
+    left: 70%;
+    width: 220px;
+    background-color: rgb(35, 87, 32);
+    padding: 10px 0 10px 0;
+    border-radius: 10px;
+}
+
+.con-20{
+    position: absolute;
+    top: 620px;
+    left: 27%;
+    width: 220px;
+    background-color: rgb(35, 87, 32);
+    padding: 10px 0 10px 0;
+    border-radius: 10px;
+}
+
+.con-21{
+    position: absolute;
+    top: 620px;
+    left: 55%;
+    width: 220px;
+    background-color: rgb(35, 85, 30);
+    padding: 10px 0 10px 0;
+    border-radius: 10px;
+}
+
+span{
+    margin-top: 10px;
+}
+
+.conclusions{
+    margin-bottom: 150px;
+}
+.conclusions>div>a{
+    color: #fff;
+    text-decoration: none;
+}
+.conclusions>div:hover>a{
+    color: cadetblue;
+}
+.conclusions>div:hover{
+    background-color: rgb(50, 100, 50);
+}
+.main>h1{
+    font-style: normal;
+    font-weight: 800;
+    font-size: 45px;
+    line-height: 55px;
+    margin: 0 0 28px 0;
+}
+.theses{
+    text-align: left;
+    padding-left: 10px;
+}
+
+.theses>dl>dt{
+    font-weight: 900;
+    text-decoration: underline;
+}
+
+.home{
+    position: fixed;
+    margin: 0;
+    padding: 0;
+    left: 95%;
+    top: -20px;
+}
+.home>img{
+
+    width: 50px;
+    height: 50px;
+}
