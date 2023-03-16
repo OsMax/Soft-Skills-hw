@@ -233,12 +233,10 @@ span{
     color: #fff;
     text-decoration: none;
 }
-.conclusions>div:hover>a{
-    color: cadetblue;
-}
 
 .conclusions>div>a:hover {
     text-decoration: underline;
+    color: cadetblue;
 }
 .main>h1{
     font-style: normal;
